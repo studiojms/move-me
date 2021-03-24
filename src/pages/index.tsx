@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Home | movement</title>
+        <title>Home | move.me</title>
       </Head>
       <ExperienceBar />
       <section>
