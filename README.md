@@ -1,4 +1,4 @@
-<a href="https://move-me.vercel.app/" target="_blank">![Logo](public/logo.svg)</a>
+<a href="https://move-me.vercel.app/" target="blank">![Logo](public/logo.svg)</a>
 
 ## Move.me
 
@@ -10,7 +10,7 @@ This is a frontend project build using React and Next.js. The styles were built 
 
 ## Acessing the project online
 
-The project is available at [https://move-me.vercel.app/](https://move-me.vercel.app/)
+The project is available at <a href="https://move-me.vercel.app/" target="blank">https://move-me.vercel.app/</a>
 
 ## Running the project locally
 
