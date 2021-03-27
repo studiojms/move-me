@@ -27,6 +27,7 @@ export default function Home(props: HomeProps) {
         <Head>
           <title>Home | move.me</title>
         </Head>
+        <img src="/logo.svg" alt="Move.me" />
         <ExperienceBar />
 
         <CountdownProvider>
