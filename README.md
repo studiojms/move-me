@@ -1,4 +1,4 @@
-![Logo](public/logo.svg)
+<a href="https://move-me.vercel.app/" target="_blank">![Logo](public/logo.svg)</a>
 
 ## Move.me
 
@@ -8,7 +8,11 @@ The idea of this project is to make people move. Move.me aims to help people exe
 
 This is a frontend project build using React and Next.js. The styles were built using CSS modules.
 
-## Running the project
+## Acessing the project online
+
+The project is available at [https://move-me.vercel.app/](https://move-me.vercel.app/)
+
+## Running the project locally
 
 To run the project locally, first install de dependencies:
 
